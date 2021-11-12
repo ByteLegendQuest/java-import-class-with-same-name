@@ -17,6 +17,9 @@
 
 </details>
 
+<details open='true'>
+   <summary>English</summary>
+
 # Basic Structure of Java Program: Import Classes with Same Name from Different Packages
 
 Now we have a `Cat` class in both `com.bytelegend.pet1` package and `com.bytelegend.pet2` package.
@@ -32,3 +35,5 @@ Please reference these two `Cat` classes in [`Home` class](https://github.com/By
 Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/bytelegend/Home.java`
+
+</details>
