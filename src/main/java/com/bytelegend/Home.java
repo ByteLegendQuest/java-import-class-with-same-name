@@ -1,13 +1,9 @@
 package com.bytelegend;
 
-import com.bytelegend.pet1.Cat;;
+import com.bytelegend.pet1.Cat;
+import com.bytelegend.pet2.Cat;
 
 public class Home {
-    public static void main(String args[]) {
-        new Cat();
-        new com.bytelegend.pet2.Cat();
-    }
-
-    public Cat cat1;
-    public com.bytelegend.pet2.Cat cat2;
+    Cat cat1;
+    Cat cat2;
 }
