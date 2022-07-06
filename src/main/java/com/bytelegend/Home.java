@@ -1,10 +1,10 @@
 package com.bytelegend;
 
 import com.bytelegend.pet1.Cat;
+import
 
 public class Home {
-    cat1=new Cat;
-    cat2=new com.bytelegend.pet2.Cat;
-
-    Cat cat2;
+       Cat cat1 = new Cat();
+    com.bytelegend.pet2.Cat cat2 = new com.bytelegend.pet2.Cat();
+    
 }
