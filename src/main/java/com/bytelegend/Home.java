@@ -1,7 +1,6 @@
 package com.bytelegend;
 
 import com.bytelegend.pet1.Cat;
-import
 
 public class Home {
          Cat cat1;
