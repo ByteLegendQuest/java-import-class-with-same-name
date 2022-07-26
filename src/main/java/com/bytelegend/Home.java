@@ -4,6 +4,8 @@ import com.bytelegend.pet1.Cat;
 import com.bytelegend.pet2.Cat;
 
 public class Home {
-    public Cat cat1;
-    public Cat cat2;
+    Cat cat1;
+    Cat cat2;
+    Cat bytelegend.pet1=new Cat();
+    Cat bytelegend.pet2=new Cat();
 }
