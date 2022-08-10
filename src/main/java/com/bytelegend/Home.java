@@ -8,5 +8,5 @@ public class Main {
         Cat cat1 = new Cat();
         com.bytelegend.pet2.Cat cat2 = new com.bytelegend.pet2.Cat();
     }
-}
+} 
 
