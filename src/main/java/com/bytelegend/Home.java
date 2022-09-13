@@ -5,5 +5,5 @@ import com.bytelegend.pet2.Cat;
 
 public class Home {
     Cat cat1=new Cat();
-    com.bytelegend.pet2.Cat=new Cat();
+    com.bytelegend.pet2.Cat cat2=new Cat();
 }
