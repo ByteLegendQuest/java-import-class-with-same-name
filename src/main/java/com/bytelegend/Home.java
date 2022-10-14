@@ -3,6 +3,6 @@ import com.bytelegend.pet1.Cat;
 
 public class Home {
     
-    pet1.Cat cat1;
+    Cat cat1;
     com.bytelegend.pet2.Cat cat2;
 }
