@@ -6,4 +6,7 @@ import com.bytelegend.pet2.Cat;
 public class Home {
     Cat cat1 = new Cat();
     Cat cat2 = new Cat();
+    public static void main(String[] args) {
+
+    }
 }
