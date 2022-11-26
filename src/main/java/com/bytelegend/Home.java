@@ -1,9 +1,9 @@
 package com.bytelegend;
 
-import com.bytelegend.pet1.Cat;
-import com.bytelegend.pet2.Cat;
+import main.java.com.bytelegend.pet1.*;
+import main.java.com.bytelegend.pet2.Cat;
 
 public class Home {
-    com.bytelegend.pet1.Cat（） cat1=new com.bytelegend.pet1.Cat();
-    com.bytelegend.pet2.Cat（） cat2=new com.bytelegend.pet2.Cat();
+   main.java.com.bytelegend.pet1.Cat cat1=new main.java.com.bytelegend.pet1.Cat();
+   main.java.com.bytelegend.pet2.Cat cat2=new main.java.com.bytelegend.pet2.Cat();
 }
