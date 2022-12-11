@@ -7,3 +7,4 @@ public class Home {
     Cat cat1;
     Cat cat2;
 }
+
