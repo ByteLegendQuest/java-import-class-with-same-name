@@ -6,4 +6,5 @@ import com.bytelegend.pet2.Cat1;
 public class Home {
     Cat cat1;
     Cat1 cat2;
+     com.github.hcsp.pet2.Cat cat2;
 }
