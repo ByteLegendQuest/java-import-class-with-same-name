@@ -8,7 +8,7 @@ public class Home {
     Cat cat2;
     public void hasTwoKindsOfCat() {
         Home home = new Home();
-        home.cat1 = new com.bytelegend.pet1.Cat()
-        home.cat2 = new com.bytelegend.pet2.Cat()
+        home.cat1 = new com.bytelegend.pet1.Cat();
+        home.cat2 = new com.bytelegend.pet2.Cat();
     }
 }
