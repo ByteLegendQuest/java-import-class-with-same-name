@@ -1,9 +1,14 @@
 package com.bytelegend;
 
-import com.bytelegend.pet1.Cat;
-import com.bytelegend.pet2.Cat as Cat2;
-
 public class Home {
-    Cat cat1;
-    Cat2 cat2;
+    com.bytelegend.pet1.Cat cat1;
+    com.bytelegend.pet2.Cat cat2;
+    
+    public static void main(String[] args) {
+        Home home = new Home();
+        home.cat1 = new com.bytelegend.pet1.Cat();
+        home.cat2 = new com.bytelegend.pet2.Cat();
+        
+        // Verwende cat1 und cat2 wie gewünscht
+    }
 }
